@@ -11,6 +11,7 @@ The project demonstrates how transport performance data can be structured and an
 
 https://app.powerbi.com/links/BXZo3vN__T?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
 
+![Dashboard Preview](raildashboard.jpg)
 ---
 
 ## Project Overview
