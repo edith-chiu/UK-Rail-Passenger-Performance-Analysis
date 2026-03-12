@@ -71,12 +71,19 @@ The Power BI dashboard includes multiple pages designed to explore different asp
 Main dashboard highlights include:
 
 • KPI indicators summarising total planned trains, total cancelled trains, cancellation rate, and total delay minutes
+
 • Average delay minutes per train to provide context on service disruption levels
+
 • Comparison of planned vs cancelled trains for 2025
+
 • Top delay causes across the rail network
+
 • Cancellation rate comparison across train operators
+
 • Trend analysis of cancellation rates over time with forecast projection
+
 • Interactive operator filtering using slicers
+
 
 Additional dashboard pages explore deeper performance insights across operators, delay causes, and time trends.
 
