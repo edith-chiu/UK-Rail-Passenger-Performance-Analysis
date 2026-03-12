@@ -1,5 +1,14 @@
 # UK-Rail-Passenger-Performance-Analysis
 
+## Project Summary
+
+This project analyses UK passenger rail performance using data published by the Office of Rail and Road (ORR).  
+An interactive Power BI dashboard was developed to explore cancellation trends, delay causes, and operator performance across the rail network.
+
+Key metrics analysed include service cancellations, delay minutes, and reliability trends across train operators.
+
+---
+
 ## UK Rail Passenger Performance Analysis
 Interactive Power BI dashboard analysing UK rail service reliability, delay causes, and cancellation trends using Office of Rail and Road data.
 
