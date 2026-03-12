@@ -60,6 +60,8 @@ The dataset was structured within Power BI using a relational data model to supp
 
 This structured approach enables flexible filtering and cross-analysis across operators, years, and delay categories.
 
+![Dashboard Preview](railschema.jpg)
+
 ---
 
 ## Dashboard Features
@@ -112,8 +114,11 @@ Based on the analysis, several potential operational insights can be considered:
 ## Tools Used
 
 Power BI
+
 DAX
+
 Data modelling
+
 Data visualisation
 
 ---
@@ -121,9 +126,13 @@ Data visualisation
 ## Skills Demonstrated
 
 Power BI dashboard development
+
 KPI reporting and performance monitoring
+
 Data modelling and DAX calculations
+
 Trend analysis and forecasting
+
 Operational data analysis
 
 ---
